@@ -7,3 +7,4 @@ micro:bit catch:  micro:bit V2
                   There is a score counter. If too many attempts are made, the game is over.
             
             
+micro:bit Randomness: retro style computing behavior with sound and light
