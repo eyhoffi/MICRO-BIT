@@ -1,0 +1,9 @@
+micro:bit Mosquito-Shooter: 
+
+in this game, 
+you are the point down and shoot at the point up. 
+but beware, the point up shoots back.
+Control with keys A and B, 
+shoot with A+B.
+Game has a mini intro, 
+sound and a score counter.
